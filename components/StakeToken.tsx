@@ -76,8 +76,8 @@ export const StakeToken = () => {
                     borderRadius: "10px",
                 }}>
                     <ConnectButton 
-                        client={client}
-                        chain={chain}
+                        client={75d472e86dfa0482c1cdbc0340f774b6}
+                        chain={1480}
                     />
                     <div style={{
                         display: "flex",
